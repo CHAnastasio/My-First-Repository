@@ -1,11 +1,12 @@
 # My-First-Repository
 
-##CSE 220 
+## CSE 220 
+
 Caleb Anastasio
 Professor Nathan Russell
 Assignment date August 20, 2025
 
-###Task
+### Task
 
 * Generate SSH key
 * Create GitHub Account
